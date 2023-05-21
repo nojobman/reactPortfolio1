@@ -91,7 +91,7 @@ export const Projects = () => {
                                 </Nav.Item>
                                 <Nav.Item>
                                     <Nav.Link eventKey="third">
-                                        イラスト
+                                        イラスト集
                                     </Nav.Link>
                                 </Nav.Item>
                             </Nav>
