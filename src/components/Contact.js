@@ -40,7 +40,7 @@ export const Contact = () => {
                     </Col>
                     <Col size={12} md={6}>
                         <h2>お問合せ</h2>
-                        <form onSubmit={handleSubmit}>
+                        {/* <form onSubmit={handleSubmit}>
                             <Row>
                                 <Col size={12} sm={6} className="px-1">
                                     <input type="text" value={formDetails.firstName} placeholder="苗字" onChange={(e) => onFormUpdate('firstName', e.target.value)} />
@@ -60,7 +60,8 @@ export const Contact = () => {
                                 </Col>
                             </Row>
 
-                        </form>
+                        </form> */}
+                        <h4>ココナラ規約によりフォームは記載していません</h4>
                     </Col>
                 </Row>
             </Container>
